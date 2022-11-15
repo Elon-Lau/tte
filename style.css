@@ -28,6 +28,10 @@ body {
   visibility: hidden;
 }
 
+.main .container {
+  margin: 80px auto;
+}
+
 #banner {
   background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
